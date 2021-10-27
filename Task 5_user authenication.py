@@ -33,6 +33,8 @@ else:
 
         def function():
             pass
+        
+        print('a')
 
 
 
